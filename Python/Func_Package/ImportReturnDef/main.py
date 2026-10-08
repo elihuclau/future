@@ -1,3 +1,5 @@
+#mengimport variable dari layanan_ai dan mengolahnya
+
 import layanan_ai
 
 biaya_in = layanan_ai.biaya_input(2000)
