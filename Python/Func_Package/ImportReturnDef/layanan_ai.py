@@ -1,3 +1,4 @@
+#data utama untuk di olah kembali di modul main.py
 
 def biaya_input(token_input):
     return token_input * 0.0015
